@@ -18,6 +18,7 @@ It is important to note that this project was developed solely for educational p
 ### GPT
 
 ### Diffusion models
+1. [**AutoEncoder**](algorithms/diffusion/autoencoder.py)
 1. **Latent Diffusion Models**
 2. **Sampling algorithms for stable diffusion**
 
