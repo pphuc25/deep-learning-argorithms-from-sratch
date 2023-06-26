@@ -1,4 +1,4 @@
-<h1 align="center"> Deep Learning Algorithms from Scratch with JAX Framework </h1>
+<h1 align="center"> Deep Learning Algorithms from Scratch with PyTorch and JAX Framework </h1>
 
 ## 👋 Introduction
 
